@@ -1,2 +1,1 @@
-# MyThread
-Test
+## MyClassTemplate
